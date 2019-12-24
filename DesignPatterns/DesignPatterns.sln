@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.89
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.SOLID", "DesignPatterns.SOLID\DesignPatterns.SOLID.csproj", "{0350C2B9-5464-48B1-85A9-E0FC5AF23881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.SOLID.Tests", "DesignPatterns.SOLID.Tests\DesignPatterns.SOLID.Tests.csproj", "{90F67B1E-AE03-48B2-80DF-99B570CCDD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0350C2B9-5464-48B1-85A9-E0FC5AF23881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0350C2B9-5464-48B1-85A9-E0FC5AF23881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0350C2B9-5464-48B1-85A9-E0FC5AF23881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0350C2B9-5464-48B1-85A9-E0FC5AF23881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90F67B1E-AE03-48B2-80DF-99B570CCDD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F67B1E-AE03-48B2-80DF-99B570CCDD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F67B1E-AE03-48B2-80DF-99B570CCDD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F67B1E-AE03-48B2-80DF-99B570CCDD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED33C1C6-38BC-4E39-99E8-57831C35E1B2}
+	EndGlobalSection
+EndGlobal
